@@ -1,1 +1,16 @@
-[]
+[
+    {
+        "mataKuliah": "Tata Kelola Teknologi Informasi",
+        "judul": "Resume Bab 2",
+        "deskripsi": "Resume Bab 2 Tulis Tangan di Folio Bergaris",
+        "deadline": "2025-09-23T00:00",
+        "selesai": false
+    },
+    {
+        "mataKuliah": "Pemrograman SQL",
+        "judul": "DDL",
+        "deskripsi": "Menulis DDL di Dbeaver",
+        "deadline": "2025-09-22T00:00",
+        "selesai": false
+    }
+]

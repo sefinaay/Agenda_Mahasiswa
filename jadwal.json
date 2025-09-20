@@ -1,1 +1,18 @@
-[]
+[
+    {
+        "mataKuliah": "Algotirma dan Struktur Data",
+        "hari": "Senin",
+        "jam": "08:45",
+        "ruangan": "Gedung F FILKOM F4.10",
+        "dosen": "Putra Pandu Adikara, S,Kom., M.Kom.",
+        "sks": "3"
+    },
+    {
+        "mataKuliah": "Pengembangan Aplikasi Web",
+        "hari": "Senin",
+        "jam": "12:30",
+        "ruangan": "Gedung F FILKOM F3.",
+        "dosen": "Rizal Setya Perdana, S.Kom., M.Kom., Ph.D.",
+        "sks": "4"
+    }
+]
